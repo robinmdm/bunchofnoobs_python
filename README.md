@@ -11,7 +11,7 @@ This is the repository of our python learning. Here we will upload our everyday 
 
 # System:
 
-1st session: (3 hours)
+## 1st session: (3 hours)
 
 45 minutes + 5 min break
 
@@ -21,7 +21,7 @@ This is the repository of our python learning. Here we will upload our everyday 
 
 45 minutes + 30 min break (eat something)
 
-2nd session: (3 hours)
+## 2nd session: (3 hours)
 
 45 minutes + 5 min break
 
