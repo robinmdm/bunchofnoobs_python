@@ -22,9 +22,13 @@ This is the repository of our python learning. Here we will upload our everyday 
 45 minutes + 30 min break (eat something)
 
 2nd session: (3 hours)
+
 45 minutes + 5 min break
+
 45 minutes + 5 min break
+
 45 minutes + 5 min break
+
 45 minutes (done)
 
 rest in the home, practise all that you learned, take your own time
